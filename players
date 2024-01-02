@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <player>
+      <name>Gal</name>
+      <num>9</num>
+    </player>
+    <player>
+    <name>Maradona</name>
+    <num>10</num>
+    </player>
+ </row>
+</root>
